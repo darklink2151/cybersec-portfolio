@@ -1,4 +1,4 @@
-baseurl = "https://dickbags21.github.io/cybersec-portfolio/"
+baseurl = "https://darklink2151.github.io/cybersec-portfolio/"
 languageCode = "en-us"
 theme = "terminal"
 pagination.pagerSize = 5
@@ -16,7 +16,7 @@ pagination.pagerSize = 5
 [languages]
   [languages.en]
     title = "CyberSec Portfolio"
-    subtitle = "Security Research subtitle = "A simple, retro theme for Hugo" Penetration Testing"
+    subtitle = "Security Research & Penetration Testing"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
